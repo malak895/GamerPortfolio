@@ -127,7 +127,7 @@
   background: url(../props/c-sharp.png);
   background-size: 50% 50%;
   background-position: center;
-  background-color: rgb(4, 4, 44);
+  background-color: rgb(0, 0, 0);
   
 }
 
@@ -136,7 +136,7 @@
   height: 300px;
   width: 300px;
   border-radius: 50%;
-  border: 3px solid hwb(183 1% 4%);
+  border: 3px solid hwb(0 1% 4%);
   transform: translate(-200px);
   opacity: 0;
   animation: fade-in 1s ease 1 0.5s forwards, circle-glow 3s ease-in-out infinite;
@@ -148,24 +148,24 @@
     transform: translate(0);
   }
 }
-
 @keyframes circle-glow {
   0% {
-    box-shadow: 0 0 5px hwb(183 1% 4%), 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
+    box-shadow: 0 0 5px hwb(0 1% 4%), 0 0 25px red, 0 0 50px red, 0 0 100px red;
   }
   25% {
-    box-shadow: 0 0 15px #03e9f4, 0 0 35px #03e9f4, 0 0 75px #03e9f4, 0 0 125px #03e9f4;
+    box-shadow: 0 0 15px red, 0 0 35px red, 0 0 75px red, 0 0 125px red;
   }
   50% {
-    box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
+    box-shadow: 0 0 5px red, 0 0 25px red, 0 0 50px red, 0 0 100px red;
   }
   75% {
-    box-shadow: 0 0 15px #03e9f4, 0 0 35px #03e9f4, 0 0 75px #03e9f4, 0 0 125px #03e9f4;
+    box-shadow: 0 0 15px red, 0 0 35px red, 0 0 75px red, 0 0 125px red;
   }
   100% {
-    box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
+    box-shadow: 0 0 5px red, 0 0 25px red, 0 0 50px red, 0 0 100px red;
   }
 }
+
 
 
 @keyframes fade-in {
@@ -218,7 +218,7 @@
 }
 
 .scroll-down hr {
-  background-color:#03e9f4 ;
+  border: 3px solid hwb(0 1% 4%);
   width: 20px;
 }
 
@@ -287,7 +287,7 @@
     height: 250px;
     width: 250px;
     border-radius: 50%;
-    border: 3px solid rgb(108, 161, 197);
+    border: 3px solid hwb(0 1% 4%);
     transform: translate(-200px);
     opacity: 0;
     animation: fade-in 1s ease 1 0.5s forwards;
@@ -372,7 +372,7 @@
     height: 200px;
     width: 200px;
     border-radius: 50%;
-    border: 3px solid rgb(108, 161, 197);
+    border: 3px solid hwb(0 1% 4%);
     transform: translate(-200px);
     opacity: 0;
     animation: fade-in 1s ease 1 0.5s forwards;
@@ -468,7 +468,7 @@
     height: 185px;
     width: 185px;
     border-radius: 50%;
-    border: 3px solid rgb(108, 161, 197);
+    border: 3px solid hwb(0 1% 4%);
     transform: translate(-200px);
     opacity: 0;
     animation: fade-in 1s ease 1 0.5s forwards;

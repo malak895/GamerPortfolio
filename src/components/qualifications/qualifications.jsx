@@ -2,9 +2,9 @@ import React, { useState } from "react";
 import "./qualifications.css";
 import img1 from '../props/freefire.jpg';
 import img2 from '../props/fortnite.png';
-import img3 from '../props/apex-legends.png';
-import img4 from '../props/pubg.jpg';
-import img5 from '../props/garena-logo.png';
+import img3 from '../props/apex-legends.jpg';
+import img4 from '../props/pubg.png';
+import img5 from '../props/garena-logo.jpg';
 import img6 from '../props/cod-ghost.jpg';
 import video2 from '../props/ff-vid.mp4';
 import video1 from '../props/pubg-vid.mp4';
@@ -101,11 +101,7 @@ const Qualifications = () => {
           media={video3}
          
         />
-        <Qualification
-          type="video"
-          media={video4}
-         
-        />
+      
         {/* Add more Qualification components for additional images and videos */}
       </div>
     </div>
