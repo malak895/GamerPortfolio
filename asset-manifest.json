@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/GamerPortfolio/static/css/main.34851b36.css",
+    "main.js": "/GamerPortfolio/static/js/main.549b426e.js",
+    "static/media/cod.mp4": "/GamerPortfolio/static/media/cod.f6cbe08a2ec861686a70.mp4",
+    "static/media/ff-vid.mp4": "/GamerPortfolio/static/media/ff-vid.9bf13cd5d010aa59b732.mp4",
+    "static/media/pubg-vid.mp4": "/GamerPortfolio/static/media/pubg-vid.b93c2f3f0dd71c50d27f.mp4",
+    "static/media/fortnite-vid.mp4": "/GamerPortfolio/static/media/fortnite-vid.4d6df17ff21e478180d1.mp4",
+    "static/media/cod-ghost.jpg": "/GamerPortfolio/static/media/cod-ghost.30210d9c88ff0842ad5d.jpg",
+    "static/media/pubg.jpg": "/GamerPortfolio/static/media/pubg.c5107e1820152fd33caa.jpg",
+    "static/media/wallpapersden.jpg": "/GamerPortfolio/static/media/wallpapersden.fdc25eb5310c161dd933.jpg",
+    "static/media/freefire.jpg": "/GamerPortfolio/static/media/freefire.4682dfe89d5f1a7b520a.jpg",
+    "static/media/img2.png": "/GamerPortfolio/static/media/img2.608f96cd9d089606b2fa.png",
+    "static/media/fortnite.png": "/GamerPortfolio/static/media/fortnite.7052ca1f8fd192b2492c.png",
+    "static/media/cyberpunk-art--girl.jpg": "/GamerPortfolio/static/media/cyberpunk-art--girl.9e5cae38c5bff858af4c.jpg",
+    "static/media/kotlin.png": "/GamerPortfolio/static/media/kotlin.2d0b310ccadb5be6b43e.png",
+    "static/media/faa15c324a7c.jpg": "/GamerPortfolio/static/media/faa15c324a7c.826ccaa59a79fde8f517.jpg",
+    "static/media/html.png": "/GamerPortfolio/static/media/html.0212c575bce0dfae7343.png",
+    "static/media/img3.jpg": "/GamerPortfolio/static/media/img3.caaedb4021acc06e533a.jpg",
+    "static/media/bootstrap.png": "/GamerPortfolio/static/media/bootstrap.105c58d25c35cdba791d.png",
+    "static/media/garena-logo.png": "/GamerPortfolio/static/media/garena-logo.a62248369f896dae0c50.png",
+    "static/media/react.png": "/GamerPortfolio/static/media/react.6566cdc939175a214cc9.png",
+    "static/media/css.png": "/GamerPortfolio/static/media/css.e8f40778fb00326c69fb.png",
+    "static/media/apex-legends.png": "/GamerPortfolio/static/media/apex-legends.191d128c6b1f2222a664.png",
+    "static/media/js.png": "/GamerPortfolio/static/media/js.275ccd8ed1b02c435cd4.png",
+    "static/media/c-sharp.png": "/GamerPortfolio/static/media/c-sharp.dab4fa45613371133d27.png",
+    "static/media/c-plus-plus.png": "/GamerPortfolio/static/media/c-plus-plus.df7c5705f0060c02e441.png",
+    "index.html": "/GamerPortfolio/index.html",
+    "main.34851b36.css.map": "/GamerPortfolio/static/css/main.34851b36.css.map",
+    "main.549b426e.js.map": "/GamerPortfolio/static/js/main.549b426e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34851b36.css",
+    "static/js/main.549b426e.js"
+  ]
+}
